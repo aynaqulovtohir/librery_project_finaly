@@ -12,6 +12,7 @@ django-jazzmin==3.0.3
 djangorestframework==3.16.1
 drf-yasg==1.21.15
 fonttools==4.61.1
+gunicorn==25.1.0
 idna==3.11
 inflection==0.5.1
 itypes==1.2.0
