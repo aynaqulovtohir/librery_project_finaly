@@ -1,1 +1,1 @@
-web:gunicorn "librery_project.wsgi"
+web:gunicorn 'librery_project.wsgi'
