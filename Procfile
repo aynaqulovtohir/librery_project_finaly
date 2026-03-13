@@ -1,1 +1,1 @@
-web:gunicorn 'librery_project.wsgi'
+web: gunicorn my_librery_project.wsgi:application
