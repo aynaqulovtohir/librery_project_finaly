@@ -42,3 +42,8 @@ Django
 gunicorn
 whitenoise
 psycopg2-binary
+
+djangorestframework
+django-jazzmin
+dj-rest-auth
+django-allauth
